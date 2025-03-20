@@ -15,3 +15,8 @@ Här läggs alla event till, båda nya och gamla. Det kommer finnas ett arkiv me
 måndagsbloggen (Det finns ofta folk i klubben på andra dagar men måndagskvällar är den regelbundna. Helgfria måndagar mellan 18.00 och 21.00 så är det någon form av aktivitet i klubben.)
 
 Nyheter (nyheter gällande event läggs till i rätt event taxonomi), kommnde lokala event (i klubben), större kommande event (utanför klubben), äldre event (lokala), äldre event (större), om oss, bli medlem, priser, om våra medlemmar
+
+
+## wireframe
+
+https://miro.com/welcomeonboard/bmNQWjdQVmJyQkU5ZFkyQWVzMEw1ZWowdWNWMTJSSmtEbmhIMUZ5c09hc2JzcXJ4TURGYWV2aWYyeGZDU3d4V3wzNDU4NzY0NjIxNzk3MTA1NTkyfDI=?share_link_id=575938361036
