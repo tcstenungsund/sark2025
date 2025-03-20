@@ -30,7 +30,8 @@ Chalmers ETA Elektronfysik - https://eta.chalmers.se/ :: Roboto, Helvetica, Aria
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-#Fonts:
+#
+Fonts:
 
 Headings - Anton
 
@@ -49,7 +50,8 @@ Fluid Type Scale:
 }
 
 
-#Examples:
+#
+Examples:
 
 h1 {
   font-size: var(--fs-xxxl);  /* Larger headings, fluid but controlled */
