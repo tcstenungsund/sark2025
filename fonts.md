@@ -30,12 +30,43 @@ Chalmers ETA Elektronfysik - https://eta.chalmers.se/ :: Roboto, Helvetica, Aria
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-Nya Fonter: Headings - Anton, Body - Alegreya SC
+Fonts:
 
---gg-sm: clamp(4e-8rem, 1.8e-7cqi + 3e-8rem, 5e-8rem);
---gg-base: clamp(5.7e-7rem, 0.00001058cqi + 2.9e-7rem, 0.00000122rem);
---gg-md: clamp(0.00000852rem, 0.00035725cqi + -8.6e-7rem, 0.0000304rem);
---gg-lg: clamp(0.00012778rem, 0.010322cqi + -0.00014317rem, 0.00076rem);
---gg-xl: clamp(0.00191667rem, 0.27891156cqi + -0.00540476rem, 0.019rem);
---gg-xxl: clamp(0.02875rem, 7.28571429cqi + -0.1625rem, 0.475rem);
---gg-xxxl: clamp(0.43125rem, 186.83673469cqi + -4.47321429rem, 11.875rem);
+Headings - Anton
+
+Body - Alegreya SC
+
+Fluid Type Scale:
+
+:root {
+  --fs-sm: clamp(0.9rem, 1.5vw + 0.6rem, 1.1rem);  /* Small text, readable but not too small */
+  --fs-base: clamp(1rem, 2vw + 0.8rem, 1.5rem);    /* Body text, moderate growth */
+  --fs-md: clamp(1.25rem, 2.5vw + 1rem, 1.8rem);   /* Slightly larger than base */
+  --fs-lg: clamp(1.5rem, 3vw + 1.2rem, 2.3rem);    /* Larger for headings */
+  --fs-xl: clamp(1.75rem, 3.5vw + 1.5rem, 2.8rem); /* Larger headers */
+  --fs-xxl: clamp(2rem, 4vw + 1.8rem, 3.5rem);     /* Extra large headers */
+  --fs-xxxl: clamp(2.5rem, 5vw + 2.2rem, 4.5rem);  /* Large title text */
+}
+
+
+Examples:
+
+h1 {
+  font-size: var(--fs-xxxl);  /* Larger headings, fluid but controlled */
+}
+
+h2 {
+  font-size: var(--fs-xl);    /* Medium-large headings */
+}
+
+h3 {
+  font-size: var(--fs-lg);    /* Regular headings */
+}
+
+p {
+  font-size: var(--fs-base);  /* Body text */
+}
+
+small {
+  font-size: var(--fs-sm);    /* Small text, such as captions */
+}
