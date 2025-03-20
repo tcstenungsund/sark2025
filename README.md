@@ -10,6 +10,7 @@ Det som hänt i repositoryt den här veckan är:
 - Lagt till filer för dokumentation
 - Lagt till en sitemap för den gamla sidan
 - Bytt namn på temat från bootstrap_barrio_subtheme till sark2025
+
 En backup av sidan har även tagits, men den ligger inte i repositoryt för att den helt enkelt inte hör hemma där.
 ## Vecka 12
 Alla har fått igång sina testmiljöer.
