@@ -1,6 +1,6 @@
 Befintliga fonter på SK6QA - https://www.sk6qa.se/WP/ :: Arial, "Helvetica Neue", Helvetica, sans-serif
 
------------------------------------------------------------------------------------------------------------------------------
+#
 
 Föreningen Sveriges Sändareamatörer - https://www.ssa.se/ :: Domine, Arial, Helvetica, sans-serif
 
@@ -27,15 +27,9 @@ Göteborgs Sändareamatörer - https://sk6ag.org/ :: "Helvetica Neue", Helvetica
 
 Chalmers ETA Elektronfysik - https://eta.chalmers.se/ :: Roboto, Helvetica, Arial, sans-serif
 
-
---------------------------------------------------------------------------------------------------------------------------------
-
 #
-Fonts:
 
-Headings - Anton
-
-Body - Alegreya SC
+Fonts: Headings - Anton, Body - Alegreya SC
 
 Fluid Type Scale:
 
@@ -51,7 +45,6 @@ Fluid Type Scale:
 
 
 #
-Examples:
 
 h1 {
   font-size: var(--fs-xxxl);  /* Larger headings, fluid but controlled */
