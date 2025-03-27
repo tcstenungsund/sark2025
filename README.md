@@ -23,3 +23,11 @@ GitHub repositoryt har uppdaterats:
 - En logga för den nya sidan har skapats
 - En wireframe har skapats
 - Ett dokument har skapats för kartlägga typsnitt som används på den befintliga sidan och vad som kan användas till den nya.
+## Vecka 13
+- Lagt in content type taxonomier på dev-servern
+- Planerat datamigrering
+- Skapat twig-fil för frontpage
+- Fixat bug som gjort att temat inte fungerade
+- Konfigurerat PathAuto och lagt till det på dev-servern
+- Lagt till wireframe i dokumentationen
+Datamigrering kan påbörjas nästa vecka.
