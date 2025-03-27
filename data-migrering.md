@@ -3,7 +3,6 @@ Steg 1:
  
 Steg 2:
     Navigera till "Add Content": Gå till Innehåll -> Lägg till innehåll.
-
     Du kommer att se en lista över de content types som du kan skapa (t.ex. artikel, sida, bloggpost, etc.)
     Skapa nytt innehåll: Klicka på den content type du vill skapa (t.ex. Artikel, Sida, Nyhet, etc.)
     Fyll i alla fält på sidan. Se till att alla fält är korrekt ifyllda (titel, text, bilder, etc.)
