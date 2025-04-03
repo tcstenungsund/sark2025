@@ -8,6 +8,7 @@ Uppstart, vi började dra igång utvecklarmiljöer och bekanta oss med GitHub Pr
 
 ## Vecka 11
 Fortsatt med att dra igång och felsöka utvecklarmiljöer. Ett möte hölls om hur git skulle användas (forks eller branches), och det beslutades att vi skulle ha var sin fork av projektet och slå ihop våra individuella forks med huvudforken vid större förändringar.
+
 Det som hänt i repositoryt den här veckan är:
 - Lagt till filer för dokumentation
 - Lagt till en sitemap för den gamla sidan
@@ -28,6 +29,7 @@ GitHub repositoryt har uppdaterats:
 - Ett dokument har skapats för kartlägga typsnitt som används på den befintliga sidan och vad som kan användas till den nya.
 
 ## Vecka 13
+
 - Lagt in content type taxonomier på dev-servern
 - Planerat datamigrering
 - Skapat twig-fil för frontpage
