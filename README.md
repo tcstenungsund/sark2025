@@ -39,3 +39,10 @@ GitHub repositoryt har uppdaterats:
 Datamigrering kan påbörjas nästa vecka.
 
 ## Vecka 14
+- Migrerat "måndagsbloggen"
+- Skapat en pattern library
+- Migrerat "event"
+- Migrerat "om oss"
+- Skapat ett konto för datamigrering
+- Migrerat "bli medlem"
+- Migrerat "medlemmar"
