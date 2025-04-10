@@ -46,3 +46,10 @@ Datamigrering kan påbörjas nästa vecka.
 - Skapat ett konto för datamigrering
 - Migrerat "bli medlem"
 - Migrerat "medlemmar"
+
+## Vecka 15
+Den nya sidan har börjat byggas utifrån den migrerade datan. Vi har:
+- Konfigurerat views enligt den nya sitemapen
+- Börjat bygga template filer
+- Börjat skapa en medlemslista
+- Sett över den migrerade datan och migrerat den ytterst viktiga grillbilden
