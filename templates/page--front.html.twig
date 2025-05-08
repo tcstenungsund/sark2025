@@ -1,5 +1,9 @@
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
+      <a class="logga" href="https://sark2025.tcstenungsund.se/">
+      <img src="https://raw.githubusercontent.com/tcstenungsund/sark2025/8bdc280fc316c3adeca6d06bd39862284276836f/docs/logo_sark.svg" alt="SARK_logga" width="80" height="60">
+    </a>
   {{ drupal_menu('main') }}
+  {{ drupal_form('Drupal\\search\\Form\\SearchBlockForm') }}
 </nav>
 <div class="container-fluid">
   <div class="card mb-5" style="max-width: 100%;">
@@ -18,7 +22,6 @@
     </div>
   </div>
 </div>
-<h2> Vi är medlemmar i: </h2>
 <section class="row">
   <section class="col-md-3">
     <div class="card" style="width: 18rem;">
